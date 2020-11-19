@@ -1,0 +1,10 @@
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\bin\Debug\DortIslem.exe.config
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\bin\Debug\DortIslem.exe
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\bin\Debug\DortIslem.pdb
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.csprojAssemblyReference.cache
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.Form1.resources
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.Properties.Resources.resources
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.GenerateResource.cache
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.CoreCompileInputs.cache
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.exe
+C:\Users\sumeyra.sarioglu\source\repos\DortIslem\DortIslem\obj\Debug\DortIslem.pdb
